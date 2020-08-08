@@ -1,0 +1,15 @@
+.persistent-player {
+	transform: scale(1) !important;
+}
+
+.channel-root__info--home {
+	margin-top: 0 !important;
+}
+
+.channel-root__info--home .channel-info-content {
+	width: auto !important;
+}
+
+.home__scrollable-content .video-player video {
+	display: none !important;
+}
