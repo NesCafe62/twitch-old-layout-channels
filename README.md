@@ -9,4 +9,5 @@ To enable css rules:
 * Enjoy!
 
 To bring back Videos, Clips and Schedule easy accessable links use FrankerFaceZ extension.
+
 In FFZ settings: Channel > Appearance > enable "Add extra links to live channel pages, next to the streamer's name." (usually it is enabled by default)
