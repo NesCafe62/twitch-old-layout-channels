@@ -10,6 +10,10 @@
 	width: auto !important;
 }
 
+.home__scrollable-content .channel-root__player, .home__scrollable-content .persistent-player {
+	display: none !important;
+}
+
 .home__scrollable-content .video-player video {
 	display: none !important;
 }
